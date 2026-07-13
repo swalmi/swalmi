@@ -54,7 +54,7 @@ I'm **Abdullah**, a Software Engineer from Egypt who enjoys turning ideas into w
   🔧 GIF VARIABLE — this is the ONLY place you need to edit to change the gif.
   Just replace the URL in the src="" below and nothing else needs touching.
 -->
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHJiZ2JjeTl4Y3VrYmh5a3prZ3h0bTM0aG5vZTFmN3o1OG5mdmFrdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fSGFIxCnw65Viiu2xB/giphy.gif" width="100%" alt="coding gif"/>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTlvYjVzNDk5cDQ2MHJrc3ZpN2d4N3pwM2IzNDR1Z3NudGRveGtpbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Mcz83ABXVGdaobk1WU/giphy.gif" width="100%" alt="coding gif"/>
 
 </td>
 </tr>
