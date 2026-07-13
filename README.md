@@ -30,15 +30,15 @@
 <tr>
 <td width="60%" valign="top">
 
-I'm **Abdullah**, a Software Engineer from Egypt who enjoys turning ideas into working products — and writing about the lessons learned along the way.
+I'm **Abdullah**, a Software Engineer and ex-instructor from Egypt who enjoys turning ideas into working products — and writing about the lessons learned along the way.
 
 🔭 Right now I'm building **[ContentKing](https://github.com/robaa12/ITI-Graduation-Project)**, my ITI graduation project.
 
 🌱 I'm growing as a **Fullstack AI Engineer** — combining Spring/FastAPI backends with React frontends, and wiring it all together with **RAG pipelines, agentic AI patterns, and MCP (Model Context Protocol)** integrations.
 
-🤖 I like building systems where LLMs actually *do* things — not just chat: autonomous agents, tool-using pipelines, and multi-service architectures with vector search (pgvector) baked in.
-
 🎓 I'm an ex-instructor, and I genuinely enjoy teaching complex stuff — breaking down dense technical topics so they actually click for people.
+
+🤖 I like building systems where LLMs actually *do* things — not just chat: autonomous agents, tool-using pipelines, and multi-service architectures with vector search (pgvector) baked in.
 
 📝 I write about what I learn on **[Medium](https://medium.com/@swalmi)** — FullStack engineering, system design, and increasingly, AI system architecture.
 
