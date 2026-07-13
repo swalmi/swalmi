@@ -75,17 +75,29 @@ fun_fact: I debug in production... just kidding, I write tests. Mostly.
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=swalmi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swalmi&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=swalmi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swalmi&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swalmi&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=swalmi&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=swalmi&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=swalmi&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" />
 </p>
+
+<!--
+If any card above still shows a broken image, it's almost always the shared public
+demo server being rate-limited or briefly down (a known, common issue with these
+tools) — not a problem with the README markup itself. Reload the page after a
+minute, or as a permanent fix, deploy your own free instance:
+- Stats/top-langs: fork https://github.com/anuraghazra/github-readme-stats and deploy to Vercel
+- Streak stats:     fork https://github.com/DenverCoder1/github-readme-streak-stats and deploy to Vercel
+- Trophy:           fork https://github.com/ryo-ma/github-profile-trophy and deploy to Vercel
+Then swap the domain in each <img> src above for your own Vercel URL.
+-->
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=swalmi&theme=tokyo-night&hide_border=true" />
