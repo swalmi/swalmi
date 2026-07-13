@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Software Engineer from Egypt 🇪🇬</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+Backend+Developer;Spring+%2B+Java+%7C+FastAPI+%2B+Python;Building+AI-Powered+Fullstack+Apps;RAG+%7C+Agents+%7C+MCP+%7C+LLMs;Always+learning%2C+always+shipping." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+FullStack+Developer;Laravel+%2B+Django+%7C+FastAPI+%2B+React;Building+AI-Powered+Fullstack+Apps;RAG+%7C+Agents+%7C+MCP+%7C+LLMs;Always+learning%2C+always+shipping." alt="Typing SVG" />
 </p>
 
 <p align="center">
