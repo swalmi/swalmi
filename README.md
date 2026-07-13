@@ -47,7 +47,7 @@ I'm **Abdullah**, a Software Engineer from Egypt who enjoys turning ideas into w
 
 ⚡ Fun fact: I debug in production... just kidding, I write tests. Mostly.
 
-<td width="40%" align="center">
+<td width="40%" hight="70%" align="center">
 
 <!--
   🔧 GIF VARIABLE — this is the ONLY place you need to edit to change the gif.
