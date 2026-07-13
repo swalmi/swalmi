@@ -27,20 +27,32 @@
 
 ### 🚀 About Me
 
-```yaml
-name: Abdullah Al Swalmi
-role: Software Engineer
-location: Egypt
-currently_building: ContentKing — an ITI Graduation Project
-writing_at: medium.com/@swalmi
-reach_me_at: abdullahalswalmi@gmail.com
-fun_fact: I debug in production... just kidding, I write tests. Mostly.
-```
+<table>
+<tr>
+<td width="60%" valign="top">
 
-- 🔭 I'm currently working on **[ContentKing](https://github.com/robaa12/ITI-Graduation-Project)**
-- 🌱 I'm currently deepening my knowledge in **AI Engineering, Full Stack Development**
-- 📝 I regularly write articles on **[Medium](https://medium.com/@swalmi)**
-- 📫 How to reach me: **abdullahalswalmi@gmail.com**
+I'm **Abdullah**, a Software Engineer from Egypt who enjoys turning ideas into working products — and writing about the lessons learned along the way.
+
+🔭 Right now I'm building **[ContentKing](https://github.com/robaa12/ITI-Graduation-Project)**, my ITI graduation project.
+
+🌱 I'm deepening my skills in **AI Engineering** and **Full Stack Development** — currently exploring how to build production-grade AI-powered applications.
+
+📝 I write about what I learn on **[Medium](https://medium.com/@swalmi)** — mostly backend engineering, concurrency, and system design.
+
+💬 Happy to talk about **Java, Spring, Node.js, databases, or backend architecture** — feel free to reach out.
+
+📫 Best way to reach me: **[abdullahalswalmi@gmail.com](mailto:abdullahalswalmi@gmail.com)**
+
+⚡ Fun fact: I debug in production... just kidding, I write tests. Mostly.
+
+</td>
+<td width="40%" align="center">
+
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHFnZmp0MDEzYXFuMGZhdGJxbGFhbjFxbW15MXlkdTUzd2tubHoxayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eIT1YMKxHw5OdNAFDD/giphy.gif" width="100%" alt="coding gif"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -75,7 +87,6 @@ fun_fact: I debug in production... just kidding, I write tests. Mostly.
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=swalmi&theme=tokyonight&hide_border=true" />
 </p>
-
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=swalmi&theme=tokyo-night&hide_border=true" />
