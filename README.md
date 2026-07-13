@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Swalmi 👋</h1>
+<h1 align="center">Hi there, I'm Swalmi</h1>
 <h3 align="center">A Passionate Software Engineer from Egypt 🇪🇬</h3>
 
 <p align="center">
@@ -38,11 +38,13 @@ I'm **Abdullah**, a Software Engineer from Egypt who enjoys turning ideas into w
 
 🤖 I like building systems where LLMs actually *do* things — not just chat: autonomous agents, tool-using pipelines, and multi-service architectures with vector search (pgvector) baked in.
 
-📝 I write about what I learn on **[Medium](https://medium.com/@swalmi)** — backend engineering, concurrency, system design, and increasingly, AI system architecture.
+🎓 I'm an ex-instructor, and I genuinely enjoy teaching complex stuff — breaking down dense technical topics so they actually click for people.
 
-💬 Happy to talk about **FastAPI, LLM/agent architecture, Java, React or backend design** — feel free to reach out.
+📝 I write about what I learn on **[Medium](https://medium.com/@swalmi)** — FullStack engineering, system design, and increasingly, AI system architecture.
 
-📫 Best way to reach me: **[abdullahalswalmi@gmail.com](mailto:abdullahalswalmi@gmail.com)**
+💬 Happy to talk about **LLM/agentic architecture, and FullStack design** — feel free to reach out.
+
+📫 Best way to reach me: **[abdullahalswalmi@gmail.com](mailto:abdullahalswalmi@gmail.com) or Via a call: +201124796249**
 
 </td>
 <td width="40%" height="350">
