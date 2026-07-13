@@ -46,8 +46,9 @@ I'm **Abdullah**, a Software Engineer from Egypt who enjoys turning ideas into w
 📫 Best way to reach me: **[abdullahalswalmi@gmail.com](mailto:abdullahalswalmi@gmail.com)**
 
 ⚡ Fun fact: I debug in production... just kidding, I write tests. Mostly.
+</tr>
+</table>
 
-<td width="40%" hight="70%" align="center">
 
 <!--
   🔧 GIF VARIABLE — this is the ONLY place you need to edit to change the gif.
@@ -55,9 +56,6 @@ I'm **Abdullah**, a Software Engineer from Egypt who enjoys turning ideas into w
 -->
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTlvYjVzNDk5cDQ2MHJrc3ZpN2d4N3pwM2IzNDR1Z3NudGRveGtpbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Mcz83ABXVGdaobk1WU/giphy.gif" width="100%" height="100%" style="width:100%;height:100%;object-fit:cover;border-radius:8px;" alt="coding gif"/>
 
-</td>
-</tr>
-</table>
 
 ---
 
