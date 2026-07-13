@@ -26,7 +26,7 @@
 ---
 ### 🚀 About Me
 
-<table>
+<table cellpadding="0" cellspacing="0" border="0">
 <tr>
 <td width="60%" valign="top">
 
@@ -45,17 +45,21 @@ I'm **Abdullah**, a Software Engineer from Egypt who enjoys turning ideas into w
 📫 Best way to reach me: **[abdullahalswalmi@gmail.com](mailto:abdullahalswalmi@gmail.com)**
 
 </td>
-<td width="40%" style="padding:0; margin:0; line-height:0;">
+<td width="40%" height="350">
 
 <!--
   🔧 GIF VARIABLE — this is the ONLY place you need to edit to change the gif.
   Just replace the URL in the src="" below and nothing else needs touching.
 -->
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTlvYjVzNDk5cDQ2MHJrc3ZpN2d4N3pwM2IzNDR1Z3NudGRveGtpbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Mcz83ABXVGdaobk1WU/giphy.gif" width="100%" height="100%" style="display:block;width:100%;height:100%;object-fit:fill;border:0;" alt="coding gif"/>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTlvYjVzNDk5cDQ2MHJrc3ZpN2d4N3pwM2IzNDR1Z3NudGRveGtpbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Mcz83ABXVGdaobk1WU/giphy.gif" width="100%" height="100%" alt="coding gif"/>
 
 </td>
 </tr>
 </table>
+
+---
+---
+
 ### 🛠️ Tech Stack
 
 <p align="center">
