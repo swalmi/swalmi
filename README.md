@@ -32,7 +32,7 @@
 
 I'm **Abdullah**, a Software Engineer from Egypt who enjoys turning ideas into working products — and writing about the lessons learned along the way.
 
-🔭 Right now I'm building **[ContentKing](https://github.com/robaa12/ITI-Graduation-Project)**, my ITI graduation project, and **dueCode**, an AI-assisted grading and plagiarism-detection platform for TAs.
+🔭 Right now I'm building **[ContentKing](https://github.com/robaa12/ITI-Graduation-Project)**, my ITI graduation project.
 
 🌱 I'm growing as a **Fullstack AI Engineer** — combining Spring/FastAPI backends with React frontends, and wiring it all together with **RAG pipelines, agentic AI patterns, and MCP (Model Context Protocol)** integrations.
 
@@ -40,11 +40,10 @@ I'm **Abdullah**, a Software Engineer from Egypt who enjoys turning ideas into w
 
 📝 I write about what I learn on **[Medium](https://medium.com/@swalmi)** — backend engineering, concurrency, system design, and increasingly, AI system architecture.
 
-💬 Happy to talk about **Java, Spring, FastAPI, React, LLM/agent architecture, or backend design** — feel free to reach out.
+💬 Happy to talk about **FastAPI, LLM/agent architecture, Java, React or backend design** — feel free to reach out.
 
 📫 Best way to reach me: **[abdullahalswalmi@gmail.com](mailto:abdullahalswalmi@gmail.com)**
 
-⚡ Fun fact: I debug in production... just kidding, I write tests. Mostly.
 
 </td>
 <td width="40%" style="padding:0; margin:0; line-height:0;">
@@ -53,7 +52,7 @@ I'm **Abdullah**, a Software Engineer from Egypt who enjoys turning ideas into w
   🔧 GIF VARIABLE — this is the ONLY place you need to edit to change the gif.
   Just replace the URL in the src="" below and nothing else needs touching.
 -->
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjg2amo4MHliNzVzZzgxYThhd2JlZnVjY3J3cGE3MXV1dnVwYXdtcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VOgpnDOAddaN0zr9UE/giphy.gif" width="100%" height="100%" style="display:block;width:100%;height:100%;object-fit:fill;border:0;" alt="coding gif"/>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTlvYjVzNDk5cDQ2MHJrc3ZpN2d4N3pwM2IzNDR1Z3NudGRveGtpbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Mcz83ABXVGdaobk1WU/giphy.gif" hwidth="100%" height="100%" style="display:block;width:100%;height:100%;object-fit:fill;border:0;" alt="coding gif"/>
 
 </td>
 </tr>
