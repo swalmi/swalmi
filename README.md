@@ -48,7 +48,7 @@ I'm **Abdullah**, a Software Engineer from Egypt who enjoys turning ideas into w
 </td>
 <td width="40%" align="center">
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHFnZmp0MDEzYXFuMGZhdGJxbGFhbjFxbW15MXlkdTUzd2tubHoxayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eIT1YMKxHw5OdNAFDD/giphy.gif" width="100%" alt="coding gif](https://giphy.com/gifs/space-cosmos-cosmonaut-eHXed39iQn3TrMAZJO)"/>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjg2amo4MHliNzVzZzgxYThhd2JlZnVjY3J3cGE3MXV1dnVwYXdtcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VOgpnDOAddaN0zr9UE/giphy.gif" width="100%" alt="coding gif"/>
 
 </td>
 </tr>
